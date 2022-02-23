@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration and an information from us the people of God called Quakers to the present governours, the King and both Houses of Parliament, and all whom it may concern / M.F.</title>
+            <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1666</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41053</idno>
+            <idno type="STC">Wing F628</idno>
+            <idno type="STC">ESTC R18345</idno>
+            <idno type="EEBO-CITATION">12869075</idno>
+            <idno type="OCLC">ocm 12869075</idno>
+            <idno type="VID">94788</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41053)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94788)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 981:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration and an information from us the people of God called Quakers to the present governours, the King and both Houses of Parliament, and all whom it may concern / M.F.</title>
+                  <author>Fox, Margaret Askew Fell, 1614-1702.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons and Robert Wilson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntingon Library.</note>
+                  <note>Attributed to Margaret Fox. cf. NUC pre-1956.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94788:1"/>
+            <p>A DECLARATION AND AN INFORMATION From us the People of God called QUAKERS, To the preſent Governors, the KING and Both Houſes of PARLIAMENT, And all whom it may Concern.</p>
+            <p>This was Delivered into the <hi>Kings hand,</hi> the 22 day of the Fourth Moneth by<lb/> 
+               <hi>M. F</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons</hi> and <hi>Robert Wilſon,</hi> 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:94788:2"/>
+            <p>WE who are the People of God called <hi>Quakers,</hi> who are hated and deſpiſed, and every where ſpoken againſt, as people not fit to live, as they were that went be<g ref="char:EOLhyphen"/>fore us,
+<note n="(a)" place="margin">1 Cor. 4 9, 10, 11, 12, 13.</note> who were of the ſame ſpirit, power, &amp; Life and were as we are, in that they were accounted as the off-ſcou<g ref="char:EOLhyphen"/>ring of all things, by that Spirit and Nature that is of the world, and ſo the Scripture is fulfilled,
+<note n="(b)" place="margin">Gal. 4.</note> 
+               <hi>he that is born of the fleſh perſe<g ref="char:EOLhyphen"/>cuteth him that is born of the Spirit;</hi> We have been <hi>a ſuffering people,</hi> under every <hi>Power</hi> &amp; <hi>Change,</hi> and under <hi>every profeſſion of Religion</hi> that hath been, &amp; born the outward power in the Nation <hi>theſe</hi> 12 <hi>years,</hi> ſince we were a People, and being that throw the old Ene<g ref="char:EOLhyphen"/>my which hath continually appeared againſt us, not only in the <hi>profane people</hi> of the Nation, but alſo in <hi>the higheſt profeſſion</hi> of <hi>ſorts</hi> and <hi>ſects</hi> of Religion, we have ſuffered under, and been perſecu<g ref="char:EOLhyphen"/>ted by them all; Even ſome <hi>p<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſecuted</hi> &amp; priſoned <hi>till death;</hi> others their bodies bruiſed <hi>till death, ſtigmatized, bored thorow the tongue, gagged in the mouth, ſtockt,</hi> and <hi>whipt thorow Towns</hi> &amp; <hi>Cities,</hi> our <hi>goods ſpoiled,</hi> our bodies <hi>two</hi> or <hi>three years impriſoned,</hi> with much more that might be ſaid, which is well known <hi>to the Actors thereof;</hi> and this done not for the <hi>wronging</hi> of <hi>any man,</hi> nor for the breach of <hi>any juſt Law of the Nation,</hi> nor for <hi>evil doing,</hi> nor <hi>deſiring any evil,</hi> or <hi>wiſhing any hurt to any man,</hi> but <hi>for Conſcience ſake</hi> towards God, becauſe we could not <hi>bow</hi> to <hi>their worſhip,</hi> and becauſe we could not <hi>maintain a Miniſtry,</hi> which <hi>Miniſtry</hi> we could not <hi>joyn with</hi> nor <hi>own;</hi> So we look upon it to be unjuſt <hi>to maintain them,</hi> we receive nothing <hi>from,</hi> nor cannot truſt our Souls under their Teaching, <hi>who Teach for hire, and Divine for money,</hi> which the <hi>Prophets</hi> of the Lord cryed <hi>wo againſt;</hi> And Chriſt ſaid <hi>a hireling was a Thief and a Robber,</hi>
+               <note n="(c)" place="margin">Joh. 10.12, 13.</note> 
+               <hi>and would fly becauſe he was an hireling;</hi> And they are maintained by <hi>Tithes,</hi> contrary to <hi>Chriſt</hi> and the <hi>Apoſtles</hi> Do<g ref="char:EOLhyphen"/>ctrine,
+<note n="(d)" place="margin">Heb. 7.12.</note> who ſaid <hi>the Prieſthood was changed that took Tithes, and the Law alſo that gave them,</hi> and who <hi>witneſſed</hi> CHRIST JESUS to be the <hi>Everlaſting Offering once for all,</hi> who ſaith, <hi>ſuch an High-Prieſt hath become us which is holy, harmleſſe, undefiled, ſeparate from ſinners, and made higher then the Heavens, who in the dayes of his fleſh, when he had offered up prayers and ſupplications, with ſtrong cryes and Tears, unto him that was able to ſave him from death, and was
+<pb n="3" facs="tcp:94788:2"/>heard in that he feared, though he was a Son yet learned he obedience, by the things which he ſuffered,</hi>
+               <note n="(e)" place="margin">Heb 5.7, 8, 9.</note> 
+               <hi>and being made perfect be<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ame the Anthor of Eternal Salvation unto all them that obey him.</hi> And for obe<g ref="char:EOLhyphen"/>dience <hi>to him</hi> and <hi>his commands</hi> (do we ſuffer) who hath ſaid <hi>ſwear not at all,</hi>
+               <note n="(f)" place="margin">Mat. 5.34, 35. Jam. 5.12. Jam. 2.10.</note> And he ſaid <hi>Call no man Maſter upon earth, for ye have one Maſter in Heaven;</hi> and who hath ſaid <hi>How can you believe that ſeek Honour one of another, and not the Honour that comes from God onely,</hi> and who hath ſaid <hi>let your</hi> Yea <hi>be</hi> Yea, <hi>and your</hi> Nay, Nay, <hi>for whatſoever is more then this cometh of evil;</hi> And becauſe we cannot <hi>reſpect perſons,</hi> which is contrary to the <hi>Apoſtles Doctrine and practiſe,</hi> who hath ſaid,
+<note n="(g)" place="margin">Act. 10.34. Mat. 22.16.</note> 
+               <hi>of a Truth God is no reſpecter of Perſons, but in every Nation he that feareth God, and worketh Righteouſneſſe is accepted of him;</hi> And the Apoſtle <hi>James</hi> exhorted his Brethren <hi>not to have the Faith of our Lord Jeſus Chriſt with reſpect of perſons, for if you reſpect perſons you commit ſin, and are convinced of the Law as Tranſgreſſors,</hi> and contrary <hi>to</hi> this <hi>Faith</hi> and <hi>Doctrine</hi> we are made Tranſgreſ<g ref="char:EOLhyphen"/>ſors <hi>by the Powers of the Earth,</hi> becauſe we cannot <hi>reſpect perſons,</hi> and <hi>commit ſin,</hi> and be made <hi>Tranſgreſſors</hi> of the Law of God: And this hath been the onely <hi>ground</hi> and <hi>cauſe</hi> of our ſufferings, becauſe we obeyed the Command of Chriſt, <hi>the Author of our Eternal ſal<g ref="char:EOLhyphen"/>vation,</hi> and obſerved <hi>the Apoſtles Doctrine</hi> and <hi>practiſe,</hi> and not for any other <hi>cauſe</hi> or <hi>end</hi> have our ſufferings been, <hi>but for Conſcience ſake,</hi> becauſe we cannot bow to mens <hi>wills</hi> and <hi>worſhips</hi> contrary to the Command of <hi>Chriſt Jeſus</hi> our <hi>Everlaſting Prieſt, King</hi> and <hi>Prophet,</hi> whom <hi>we ſerve</hi> with our ſpirits, and <hi>worſhip</hi> in that, which the World calls <hi>Hereſie</hi>
+               <note n="(h)" place="margin">Act. 24 14.</note>
+            </p>
+            <p>And now becauſe that ſeveral of <hi>you,</hi> who are moſt concerned <hi>in this Government</hi> are not acquainted <hi>with our principles</hi> and <hi>practi<g ref="char:EOLhyphen"/>ces,</hi> neither have known <hi>our Innocency</hi> and <hi>ſufferings,</hi> and the <hi>Old Enemy</hi> by whom we have ſuffered, at this time being ready to <hi>in<g ref="char:EOLhyphen"/>cenſe</hi> and <hi>inſtigate, and infuſe ſecretly</hi> into the <hi>minds</hi> of them, who are <hi>ſtrangers to us,</hi> againſt whom <hi>we have not tranſgreſſed,</hi> neither do we deſire to give any <hi>juſt occaſion of offence</hi> to theſe preſent <hi>Governors,</hi> who <hi>yet</hi> have not done us much wrong, <hi>in making a<g ref="char:EOLhyphen"/>ny Law againſt us,</hi> that we know of; And we do believe would not, if ye did rightly underſtand <hi>our Innocency</hi> and <hi>Integrity, nakedneſs and ſingleneſs</hi> in <hi>our carriage</hi> towards <hi>all men</hi> upon the face of the earth, and if ye would but <hi>examine</hi> and <hi>ſearch out</hi> our <hi>carriage</hi> and behaviour towards <hi>all mens perſons, Souls</hi> and <hi>Eſtates,</hi> if theſe things were <hi>ſcarched out</hi> and <hi>Examined</hi>
+               <pb n="4" facs="tcp:94788:3"/>thorow the Nations, and that no <hi>prejudice</hi> were let into your minds from others words, which proceed from <hi>ſecret envy malice</hi> and <hi>hatred,</hi> &amp; not from <hi>any juſt ground</hi> they have againſt us, but as it is from a contrary ſpirit and mind, as it was in the <hi>Jews</hi> againſt <hi>Chriſt,</hi> and in <hi>all others</hi> againſt the <hi>Apoſtles,</hi> ſo it is the ſame now againſt us, but this we commit to the Lord who will plead <hi>our cauſe,</hi> and clear <hi>our Innocency,</hi> who hath ſaid <hi>vengeance is Mine, and I will repay it;</hi> And now that they know we cannot <hi>ſwear,</hi> nor take <hi>an Oath</hi> for <hi>Conſcience ſake,</hi> but have ſuffered becauſe we could not take them; Now do the <hi>Magiſtrates</hi> of ſeveral <hi>Countyes</hi> of the Nation, through the ſuggeſtion of the <hi>Prieſts</hi> envy, which is inveterate againſt us, <hi>Tender us an Oath,</hi> which they call <hi>the Oath of Allegiance,</hi> with ſeveral <hi>other Engagements,</hi> what their own wils can invent, on purpoſe <hi>to enſnare us,</hi> that upon <hi>the denial thereof</hi> they may <hi>caſt us into priſon,</hi> &amp; have already <hi>caſt ſeveral of us into priſon</hi> at their own pleaſure. <hi>We do therefore declare to take of all Jealouſies, Fears and Suſpitions of our Truth and Fidelity to the King, and theſe preſent Governours,</hi> that our intentions &amp; Endeavours are and ſhall be <hi>Good, True, Honeſt</hi> and <hi>Peaceable</hi> towards them, and that we do <hi>Love, Own,</hi> and <hi>Honour the King</hi> and <hi>theſe preſent Governours,</hi> ſo far <hi>as they do rule for God and his Truth,</hi> and do not impoſe any thing upon Peoples Conſciences, but let the Goſpel have its free paſ<g ref="char:EOLhyphen"/>ſage through the conſciences of men, which we do not know that they have (by any Law) as yet impoſed; And if they grant <hi>liberty of Conſcience</hi> towards <hi>God</hi> and towards <hi>Man,</hi> then we know that God will bleſſe them: For want of which hath been the overthrow of all that went before them: We do not deſire <hi>any li<g ref="char:EOLhyphen"/>berty</hi> that may juſtly offend any ones Conſcience, but <hi>the Liberty</hi> we do deſire is, that we may keep <hi>our Conſciences clear</hi> and <hi>void of effence</hi> towards <hi>God</hi> and towards <hi>men,</hi> and that we may enjoy <hi>our civil Rights</hi> and <hi>Liberties</hi> of <hi>Subjects,</hi> as <hi>freeborn Engliſh men</hi> And this we do in the preſence of the Lord <hi>declare,</hi> not in flattering <hi>Titles,</hi> but in <hi>reality</hi> and <hi>truth of our hearts,</hi> and ſhall manifeſt the ſame; Now that we may be clear in the preſence of the living God, and of all juſt and moderate men, that they may not have their hands <hi>in Blood</hi> and <hi>Perſecution,</hi> as thoſe have had <hi>that are gone before,</hi> and that they may not be ignorant of <hi>us,</hi> and of our principles and practice, &amp; ſo receive information againſt us from others envy, which may be contrary to our very principles, and the truth as it is in Jeſus; Therefore that we may be free from
+<pb n="5" facs="tcp:94788:3"/>
+               <hi>the blood of all men,</hi>
+               <note n="(i)" place="margin">Act. 20.26.</note> &amp; that they may not have a hand <hi>in Perſecu<g ref="char:EOLhyphen"/>ting</hi> and <hi>Oppreſſing</hi> the Innocent, whoſe cauſe <hi>God hath pleaded</hi> and <hi>will plead.</hi> We do therefore inform the <hi>Governors</hi> of this Nation <hi>high</hi> and <hi>low;</hi> That we are a People that deſire <hi>the good of all People</hi> and <hi>their peace,</hi> and deſire <hi>that all may be ſa<g ref="char:EOLhyphen"/>ved,</hi> and <hi>come to the knowledge of the Truth</hi>
+               <note n="(k)" place="margin">1 Tim 2 4. Act. 13.47. Rev. 21.24 2 Cor. 4.6.</note> the <hi>Way</hi> and <hi>the Life,</hi> which is <hi>Chriſt Jeſus, the Everlaſting Covenant, which is gi<g ref="char:EOLhyphen"/>ven for a Light to the Gentiles, and to be the Salvation to the ends of the Earth, and all the Nations that are ſaved muſt walk in this Light of the Glorious Goſpel, which hath ſhined in our hearts, and given us the light of the Knowledge of the Glory of God in the Face of Jeſus Chriſt.</hi> And to this <hi>Light</hi> we direct Peoples minds, that every one <hi>in particular</hi> may have <hi>a Teacher</hi> and <hi>Teſtimony</hi> according to the Righteouſneſſe of Faith which ſpeaketh on this wiſe; <hi>The word is very nigh in the heart and in the mouth.</hi>
+               <note n="(l)" place="margin">Rom 10.8.</note> And if every one would come to this, there would be a feeling of Gods <hi>Juſtice</hi> and <hi>Righ<g ref="char:EOLhyphen"/>teouſneſſe,</hi> and our intents to be juſt Innocent and Righteous, who hath ſaid, <hi>I will come neer to Judgement, and be a ſwift witneſſe againſt the Sorcerer and Adulterer, and falſe ſwearer</hi>
+               <note n="(m)" place="margin">Mal. 3.5.</note>.</p>
+            <p>Now if every one would turn to this <hi>witneſſe</hi> in their own <hi>Con<g ref="char:EOLhyphen"/>ſciences,</hi> this would keep from <hi>oppreſſing</hi> and <hi>perſecuting</hi> of others <hi>without cauſe,</hi> for God is coming <hi>to teach his People himſelf,</hi> by his own <hi>Light</hi> and Spirit, who hath ſaid, <hi>it is written in your law, you ſhall be all taught of God,</hi>
+               <note n="(n)" place="margin">Joh. 6.45.</note> which many of us now do witneſſe; for which cauſe are we perſecuted, <hi>the children of the Lord are taught of the Lord, and are eſtabliſhed in Righteouſneſſe, and are far from Oppreſſion.</hi>
+               <note n="(o)" place="margin">Iſa. 54.13, 14.</note>
+            </p>
+            <p>The Teſtimony that we have born, hath been chiefly againſt the <hi>Prieſts, Teachers</hi> and <hi>Profeſsors</hi> of theſe Nations, that are out of the Life &amp; power; for when it pleaſed the Lord <hi>to reveal his Son in us,</hi> we ſaw them to be <hi>abſolute deceivers</hi> of the People and <hi>betrayers</hi> of their ſouls, for they lead them wholly from that of <hi>God in them</hi> to the letter of the Scripture <hi>without them,</hi> and to their own <hi>In<g ref="char:EOLhyphen"/>ventions</hi> and <hi>Immaginations</hi> and <hi>meanings</hi> which they ſpeak, who are not taught of God themſelves For, for all their high profeſſion, there is ſcarce one of them that dares ſay they have <hi>the infallible Spirit of God,</hi> the ſame as the <hi>Apoſtles had,</hi> that gave forth <hi>the Scripture;</hi> The Apoſtle ſaith that <hi>which may be known of God is manifeſted in them, for God ſhews it unto them.</hi> No People can retain God in their knowledge and worſhip him as God, but firſt they
+<pb n="6" facs="tcp:94788:4"/>muſt come <hi>to that of God in them;</hi> But theſe <hi>Teachers</hi> deny this Do<g ref="char:EOLhyphen"/>ctrine, and have manifeſted themſelves ſeveral wayes to all ſober minded People, to be men <hi>not fearing God,</hi> and are not true to their Principles; for who have minded them, and ſeen their Carriage and Behaviour in all theſe <hi>Changes</hi> that have been theſe 8. <hi>years</hi> (which have been many, as may be further manifeſt,) for there have been Changes of <hi>Governments,</hi> of <hi>Parliaments</hi> and <hi>Protectors</hi> ſeveral in theſe <hi>Eight years,</hi> and all theſe have been warned not to uphold theſe <hi>Prieſts</hi> contrary to Peoples <hi>Conſciences,</hi> but that every one might have <hi>their Liberty,</hi> that they that would have them <hi>might maintain them,</hi> and they that could not receive their Doctrine, <hi>might not be forced to maintain them;</hi> but this would not ſatisfie <hi>their Covetous Practice,</hi> but they went on in the way of <hi>Cruelty, Perſecuting</hi> and <hi>Oppreſſing</hi> the <hi>Innocent,</hi> and <hi>caſting into Pri<g ref="char:EOLhyphen"/>ſon,</hi> and took <hi>trebble Dammages,</hi> and <hi>ſpoiled their Goods,</hi> and made <hi>Havock</hi> of poor Peoples <hi>Encreaſe</hi> and <hi>Fruits</hi> of their Labours; nei<g ref="char:EOLhyphen"/>ther would the Magiſtrates hear, but ſuffered them to go on <hi>in their Perſecution,</hi> and upheld them <hi>by a Law</hi> to the oppreſſing <hi>of the Innocent,</hi> until the Lord by his mighty Power <hi>overturned them,</hi> and <hi>broke them</hi> one after another; and thoſe <hi>Prieſts</hi> turned <hi>to euery Po<g ref="char:EOLhyphen"/>wer,</hi> and <hi>every Government,</hi> as it turned; and made <hi>Petitions,</hi> and <hi>Addreſſes,</hi> and <hi>Acknowledgements</hi> to every <hi>Change of Government,</hi> and Conformed <hi>to every Power,</hi> and ſhewed much <hi>Love</hi> and <hi>Zeal</hi> to every <hi>preſent Power</hi> for their own ends, though many of them were Inſtruments to throw others out; Yet through their <hi>De<g ref="char:EOLhyphen"/>ceit</hi> and <hi>Subtilties</hi> have kept themſelves in, in all theſe <hi>Times,</hi> and <hi>Changes.</hi>
+            </p>
+            <p>Now let any honeſt hearted People judge, whether theſe be <hi>ſound Principled men,</hi> that can <hi>turn, conform,</hi> and <hi>transform</hi> to every <hi>Change</hi> according to the <hi>Times?</hi> Whether theſe be <hi>fit men to Teach People?</hi> But their Fruits are manifeſt, and God doth diſcover them <hi>more</hi> and <hi>more,</hi> that they cannot proceed <hi>much longer;</hi> Their Folly is ſo much made manifeſt, they have uſed their utmoſt en<g ref="char:EOLhyphen"/>deavors <hi>to cauſe Perſecution</hi> to continue upon us: But, the Lord hath ſeen it, and we commit all to him, &amp; can freely ſay, <hi>The Lord forgive them for what they have done to us,</hi>
+               <note n="(p)" place="margin">Act 7.60.</note> But for the bearing our Teſtimony againſt them for the <hi>deceiving</hi> and <hi>betraying</hi> of poor ig<g ref="char:EOLhyphen"/>norant People <hi>that are blind,</hi> and led by them that are blind <hi>into the ditch,</hi>
+               <note n="(q)" place="margin">Mat. 15 14.</note> We cannot but in pitty and love to Peoples Souls <hi>bear our Teſtimony againſt them,</hi> Therefore have our Sufferings been be<g ref="char:EOLhyphen"/>cauſe
+<pb n="7" facs="tcp:94788:4"/>we deſire <hi>the good of all People,</hi> and the <hi>Salvation of their Souls;</hi> and this is all we deſire, and Suffer for, that all might come <hi>to the knowledge of the Lord,</hi> who ſaid, <hi>They ſhould all know him, from the leaſt to the greateſt.</hi>
+               <note n="(r)" place="margin">Heb. 8.11.</note>
+            </p>
+            <p>We are a People that follow after thoſe things <hi>that make for Peace, Love,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> it is our deſire that others feet may walk in the ſame, and do deny and beare our Teſtimony againſt all <hi>Strife,</hi> and <hi>Wars,</hi> and <hi>Contentions</hi> that come from the Luſts that warrin the members, that warr againſt the Soul, which we wait for and watch for in all People, and love and deſire the good of all; for no other <hi>cauſe</hi> but love to the Souls of all People, have our ſufferings been, and therefore <hi>have we been numbered amongſt the Tranſgreſſors,</hi> and <hi>been accounted as ſheep for the ſlaughter,</hi> as our Lord and Maſter was, <hi>who is the Captain of our Salvation who is gone before us,</hi> who <hi>though he was a Son, yet learned he Obedience, by the things that he ſuffered,</hi> who ſaid <hi>my Kingdom is not of this World, if my Kingdom were of this world,</hi>
+               <note n="(ſ)" place="margin">Joh. 18 36.</note> 
+               <hi>then would my Servants fight,</hi> but <hi>my Kingdom is not from hence;</hi> This is he <hi>that comes to ſave mens lives, and not to deſtroy them,</hi>
+               <note n="(t)" place="margin">Luk. 9.56.</note> and this is he that <hi>is our Lord</hi> &amp; <hi>Maſter,</hi> whoſe <hi>Teſtimony</hi> we muſt ſeal with our blood, if it be required of us; And our <hi>Weapons</hi> are <hi>not Carnal</hi> but <hi>Spiritual,</hi>
+               <note n="(u)" place="margin">2 Cor: 10.4.</note> who have given <hi>our Backs, our Cheeks, and our Hair</hi> to all profeſſions, out of the Life and Power to be ſmitten, who have done it to purpoſe, which the Lord hath overturned, who were often warned by us, under whom we have undergon <hi>cruel ſufferings.</hi> And now <hi>You</hi> are come up into the <hi>Throne</hi> to be tried, we cannot but warn you in your day <hi>to do juſtly,</hi> and <hi>to love Mercy</hi>
+               <note n="(w)" place="margin">Mica. 6.8.</note> whereby the violence of the wicked might be ſtopt, which is for your own good, and proſperity. And ſo we <hi>deſire</hi> and alſo <hi>expect</hi> to have <hi>the liberty of our Conſciences</hi> and <hi>juſt Rights,</hi> and <hi>outward Liberties</hi> as other people of the Nation, which we have promiſe of <hi>from the word of a King,</hi> that we may not be made a prey upon by <hi>the prophane envious People</hi> and <hi>Prieſts</hi> which we have born our Teſtimony againſt their corruptions, who thirſt not onely after <hi>our Eſtates</hi> &amp; <hi>Liberties,</hi> but <hi>our blood alſo,</hi> who have already begun <hi>to ſearch our Houſes</hi> and to <hi>apprehend our Members,</hi> &amp; <hi>caſt them into Priſon,</hi> there to be kept <hi>without bail</hi> or <hi>main<g ref="char:EOLhyphen"/>prize,</hi> under pretence as if we were <hi>Thieves Murderers</hi> or <hi>Tray<g ref="char:EOLhyphen"/>tors,</hi> who are Enemies to no mans Perſon upon the Earth, which they cannot lay to our charge, whereby they en<g ref="char:EOLhyphen"/>deavour to take away our lives. <hi>Treaſon, Treachery,</hi> and <hi>falſe Dealing</hi> we do utterly deny, <hi>falſe dealing, ſurm<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zing,</hi>
+               <pb n="8" facs="tcp:94788:5" rendition="simple:additions"/>or <hi>plotting</hi> againſt any Creature upon the Face of the Earth, and ſpeak <hi>the truth</hi> in plainneſſe and ſingleneſſe of heart, and all <hi>our</hi> deſire is your <hi>good,</hi> and <hi>Peace,</hi> and <hi>Love,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>nity,</hi> and this ma<g ref="char:EOLhyphen"/>ny thouſands will ſeal with their blood, <hi>who are ready not onely to believe, but to ſuffer,</hi> but only that the blood of the Innocent may not come upon your ſelves through falſe informations.</p>
+            <closer>
+               <dateline>Given forth <date>the 5<hi>th</hi> of the 4<hi>th</hi> Month, 1660.</date>
+               </dateline>
+               <signed>Margret Fell.</signed>
+
+            </closer>
+            <postscript>
+               <p>WE in the <g ref="char:V">Ʋ</g>nity of the Spirit, and Members of Chriſt, do Sub<g ref="char:EOLhyphen"/>ſcribe, and Witneſſe to the Truth of this, and in the behalf of thoſe in the ſame <g ref="char:V">Ʋ</g>nity,</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>George Fox</item>
+                        <item>Richard Hubberthorne,</item>
+                        <item>Samuel Fiſher,</item>
+                        <item>Joſeph Fuce,</item>
+                        <item>Gobert Sikes,</item>
+                        <item>Amos Stodert,</item>
+                        <item>William Caton,</item>
+                        <item>Gerrard Roberts,</item>
+                        <item>John Stubbs,</item>
+                        <item>Thomas Coveny,</item>
+                        <item>Thomas Harte,</item>
+                        <item>James Strut,</item>
+                        <item>Ellis Hookes.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </postscript>
+            <postscript>
+               <p>And now I am here to Anſwer what can be Objected againſt us on the behalf of many Thouſands, who are Baptized with one Spirit into one Body, to bear my Teſtimony, and to be offered up for the Ser<g ref="char:EOLhyphen"/>vice of the Faith, and to give an Account of the Hope, that is in me, to every one that Asketh according to the Scripture, who was moved of the Lord to leave my Houſe and Family, and to come Two Hundred Miles to lay theſe Things before you; Who to the Will of the Lord is Committed.</p>
+               <closer>
+                  <signed>M. F.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
